@@ -4,6 +4,8 @@
 
 ![NicoleZaplana GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoleZaplana&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoleZaplana&hide_progress=true)
+
 ## Tecnologias que utilizo no meu dia 
 <div>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
